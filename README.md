@@ -1,4 +1,4 @@
-# Trying to fix my sleep schedule 😴
+# Trying to fix my sleeping schedule 😴
 
 
 if you woke up at 8 A.M. on 09/18/2020

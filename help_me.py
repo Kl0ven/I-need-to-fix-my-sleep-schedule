@@ -16,7 +16,7 @@ def get_fucked_level(h):
     elif h < 24:
         return 'You should go to sleep'
     else:
-        return 'You\'re fucked, Fix your fucking sleep schedule !!!!'
+        return 'You\'re fucked, Fix your fucking sleeping schedule !!!!'
 
 
 if __name__ == "__main__":
